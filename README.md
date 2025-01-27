@@ -1,5 +1,3 @@
-# Lab-project-B
-================
 ## *Topic* 
 ### Crime Analysis in Chicago City 
 
